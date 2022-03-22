@@ -1,0 +1,15 @@
+D:\RAIDS\MCrossPDev\Chapter02\Variables\bin\Debug\net6.0\Variables.exe
+D:\RAIDS\MCrossPDev\Chapter02\Variables\bin\Debug\net6.0\Variables.deps.json
+D:\RAIDS\MCrossPDev\Chapter02\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+D:\RAIDS\MCrossPDev\Chapter02\Variables\bin\Debug\net6.0\Variables.dll
+D:\RAIDS\MCrossPDev\Chapter02\Variables\bin\Debug\net6.0\Variables.pdb
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\Variables.dll
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\refint\Variables.dll
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\Variables.pdb
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+D:\RAIDS\MCrossPDev\Chapter02\Variables\obj\Debug\net6.0\ref\Variables.dll
