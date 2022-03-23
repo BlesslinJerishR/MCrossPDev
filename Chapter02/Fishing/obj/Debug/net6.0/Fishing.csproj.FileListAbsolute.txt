@@ -1,0 +1,15 @@
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\bin\Debug\net6.0\Fishing.exe
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\bin\Debug\net6.0\Fishing.deps.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\bin\Debug\net6.0\Fishing.runtimeconfig.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\bin\Debug\net6.0\Fishing.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\bin\Debug\net6.0\Fishing.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\Fishing.csproj.AssemblyReference.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\Fishing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\Fishing.AssemblyInfoInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\Fishing.AssemblyInfo.cs
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\Fishing.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\refint\Fishing.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\Fishing.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\Fishing.genruntimeconfig.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter02\Fishing\obj\Debug\net6.0\ref\Fishing.dll
