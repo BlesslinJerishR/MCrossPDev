@@ -6,7 +6,7 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"This file is working");
+            Console.WriteLine($"This program is working");
             
             string[] names;
             names = new string[4];

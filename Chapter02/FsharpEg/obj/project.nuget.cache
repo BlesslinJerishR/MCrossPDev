@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2ne58tVv10Ui7RDTsfvAHIlKLzgilB0bgZo4cWsPO+QaY8f/4hkzgNTupvp/zzEAtHvt2egpAd8MPa+q3yn1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blesslinj\\Documents\\GitHub\\MCrossPDev\\Chapter02\\FsharpEg\\FsharpEg.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blesslinj\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
