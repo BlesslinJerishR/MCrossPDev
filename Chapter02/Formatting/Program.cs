@@ -1,10 +1,12 @@
-﻿Console.WriteLine("This program is working");
+﻿using static System.Console;
+
+WriteLine("This program is working");
 
 int numberOfApples = 12;
 decimal pricePerApple = 0.35M;
 
 // Long method
-Console.WriteLine("{0} apples costs {1:C}",
+WriteLine("{0} apples costs {1:C}",
     arg0: numberOfApples,
     arg1: pricePerApple * numberOfApples
 );
@@ -20,7 +22,7 @@ string formatted = string.Format(
 
 //Interpolated strings
 // Best Method
-Console.WriteLine($"{numberOfApples} apples costs {pricePerApple * numberOfApples:C}");
+WriteLine($"{numberOfApples} apples costs {pricePerApple * numberOfApples:C}");
 
 string applesText = "Apples";
 int applesCount = 1234;
@@ -28,33 +30,38 @@ int applesCount = 1234;
 string bananasText = "Bananas";
 int bananasCount = 56789;
 
-Console.WriteLine(
+WriteLine(
     format: "{0,-8} {1,6:NO}",
     arg0: "Name",
     arg1: "Count"
 );
 
 //Bug
-Console.WriteLine(
+WriteLine(
     format: "{0,-8} {1,6:NO}",
     arg0: applesText,
     arg1: applesCount);
 
 // Bug
-Console.WriteLine(
+WriteLine(
     format: "{0,-8} {1,6:NO}",
     arg0: bananasText,
     arg1: bananasCount
 );
 
-Console.WriteLine($"Name\tCount");
-Console.WriteLine($"{applesText}\t{applesCount}");
-Console.WriteLine($"{bananasText}\t{bananasCount}");
+WriteLine($"Name\tCount");
+WriteLine($"{applesText}\t{applesCount}");
+WriteLine($"{bananasText}\t{bananasCount}");
 
-Console.Write("Type your name and press Enter : ");
-string name = Console.ReadLine();
+Write("Type your name and press Enter : ");
+string name = ReadLine();
 
-Console.Write("Type your age  and press Enter : ");
-string age = Console.ReadLine();
+Write("Type your age  and press Enter : ");
+string age = ReadLine();
 
-Console.WriteLine($"Hello {name}, Your age is {age}.");
+WriteLine($"Hello {name}, Your age is {age}.");
+
+Write("Press Any key combination : ");
+ConsoleKeyInfo key = ReadKey();
+WriteLine();
+WriteLine($"The pressed key is : {key.Key} Char : {key.KeyChar} Modifiers : {key.Modifiers}");
