@@ -1,0 +1,15 @@
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\bin\Debug\net6.0\FizzBuzz.exe
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\bin\Debug\net6.0\FizzBuzz.runtimeconfig.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Projects\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll
