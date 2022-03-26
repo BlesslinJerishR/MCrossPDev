@@ -1,4 +1,8 @@
-﻿Console.WriteLine("This program is working");
+﻿using System.IO;
+using System;
+using static System.Console;
+
+Console.WriteLine("This program is working");
 
 if(args.Length == 0)
 {
@@ -49,5 +53,64 @@ switch (number)
         Console.WriteLine($"I am 6 , retry");
         break;
 }
-Console.ReadLine();
 
+string path = @"C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03";
+Write("Press R for readonly or W for write: ");
+ConsoleKeyInfo key = ReadKey();
+WriteLine();
+
+Stream s = null;
+
+if(key.Key == ConsoleKey.R)
+{
+    s = File.Open(
+        Path.Combine(path, "file.txt"),
+        FileMode.OpenOrCreate,
+        FileAccess.Read
+    );
+}
+else{
+    s = File.Open(
+        Path.Combine(path, "file.txt"),
+        FileMode.OpenOrCreate,
+        FileAccess.Write
+    );
+}
+
+string message = string.Empty;
+
+switch(s)
+{
+    case FileStream writeableFile when s.CanWrite:
+         message = "The stream is a file that i can write to.";
+         break;
+
+    case FileStream readOnlyFile:
+         message = "The stream is read only file.";
+         break;
+
+    default: //always evaluated last        
+         message = "The stream is some other type.";
+         break;
+    case null:
+         message = "The stream is null.";
+         break;
+}
+WriteLine(message);
+
+message = s switch
+{
+    FileStream writeableFile when s.CanWrite
+        => "The stream is a file that i can write to.",
+    FileStream readOnlyFile
+        => "The stream is read only file.",
+    MemoryStream ms
+        => "The stream is a memory address.",
+    null
+        => "The stream is null.",
+    _
+        => "The stream is some other type."
+};
+WriteLine(message);
+
+ReadLine();

@@ -1,0 +1,15 @@
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\bin\Debug\net6.0\Looping.exe
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\bin\Debug\net6.0\Looping.deps.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\bin\Debug\net6.0\Looping.runtimeconfig.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\bin\Debug\net6.0\Looping.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\bin\Debug\net6.0\Looping.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\Looping.csproj.AssemblyReference.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\Looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\Looping.AssemblyInfoInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\Looping.AssemblyInfo.cs
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\Looping.csproj.CoreCompileInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\Looping.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\refint\Looping.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\Looping.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\Looping.genruntimeconfig.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\Looping\obj\Debug\net6.0\ref\Looping.dll
