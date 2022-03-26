@@ -22,7 +22,7 @@ WriteLine($"g is {g:N1}, f is {f}");
 WriteLine($"g / f = {g / f}");
 
 int p = 6;
-WriteLine($"Orgin Value of p is {p}");
+WriteLine($"Orginal Value of p is {p}");
 p += 3;
 WriteLine($"Value of p + 3 is {p}");
 p -= 3;

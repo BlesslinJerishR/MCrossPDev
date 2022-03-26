@@ -1,0 +1,15 @@
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.exe
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.deps.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.runtimeconfig.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\bin\Debug\net6.0\BooleanOperators.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.csproj.AssemblyReference.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.AssemblyInfo.cs
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\refint\BooleanOperators.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\BooleanOperators.genruntimeconfig.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\BooleanOperators\obj\Debug\net6.0\ref\BooleanOperators.dll
