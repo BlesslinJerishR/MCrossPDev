@@ -1,0 +1,15 @@
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.exe
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.deps.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.runtimeconfig.json
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\bin\Debug\net6.0\SelectionStatements.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.AssemblyReference.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfo.cs
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\refint\SelectionStatements.dll
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.pdb
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\SelectionStatements.genruntimeconfig.cache
+C:\Users\blesslinj\Documents\GitHub\MCrossPDev\Chapter03\SelectionStatements\obj\Debug\net6.0\ref\SelectionStatements.dll
