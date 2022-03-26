@@ -49,4 +49,5 @@ switch (number)
         Console.WriteLine($"I am 6 , retry");
         break;
 }
+Console.ReadLine();
 
